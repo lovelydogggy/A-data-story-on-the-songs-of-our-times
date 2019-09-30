@@ -1,7 +1,6 @@
 # A-data-story-on-the-songs-of-our-times
 
 ### [Project Description](doc/)
-This is the first and only *individual* (as opposed to *team*) this semester. 
 
 Term: Fall 2019
 
